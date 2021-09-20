@@ -5,6 +5,7 @@
 Build a model to predict the first innings score of any IPL match (In terms of range).
 • Optimized Multiple-Linear, Decision Tree, Random Forest, and AdaBoost regression models using GridsearchCV
 
+![gif_ipl.gif]
 ## About the Dataset
 
 
